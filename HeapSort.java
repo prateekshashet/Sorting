@@ -46,7 +46,7 @@ public static void heapSort(int[] nums) {
 }
     public static void main(String[] args){
         int nums[]={8,6,9,5,2,3};
-        int n=nums.length;
+       
         System.out.println("After Sorting:");
             for(int num:nums){
                 System.out.print(num+" ");
